@@ -46,7 +46,7 @@ MY_KEY = open('/data/data/com.termux/files/usr/lib/.myawm.txt', 'r').read()
 #------------------[ APPROVEL ]-----------------#
 class apvroval:
     def check():
-        url = 'https://github.com/Tutul-King/File-Cloning/blob/main/Ra.txt'
+        url = 'https://github.com/abjr505/asif1/blob/main/approval.txt'
         my_awm = mechanize.Browser()
         try:
             host = my_awm.open(url)
